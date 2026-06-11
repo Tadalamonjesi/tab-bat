@@ -1,0 +1,31 @@
+body{
+	
+	background-color:beige;
+
+}
+h1{
+	color:green;
+	font-weight:bold;
+}
+
+li{
+	display:inline;
+}
+a{
+	
+	text-decoration:none:
+}
+table{
+	border-collapse:collapse;
+}
+
+th,td{
+	border:20px solid;
+	width:50px;
+	height:50px;
+	padding:50px;
+	margin:50px;
+}
+a{
+	text-decoration:none; 
+}
